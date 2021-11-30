@@ -7,7 +7,7 @@
 # Rodrigo Bessa
 <sub>*Engenheiro, estudante de: Ciência de Dados, Big Data e tecnologias geoespaciais.*</sub>
 
-[PT/BR] - Como engenheiro, possuo experiência de chão de fábrica em indústria de pequeno porte e em pesquisa e desenvolvimento para indústria de grande porte. Tenho mais de 6 anos de experiência em laboratório de prototipagem mecânica e eletrônica, utilizando tecnologias CAD/3D e impressão 3D. Através dessas experiências, tenho facilidade em trabalhar com times multidisciplinares, habilidades analíticas e pensamento crítico. 
+[PT/BR] - Como engenheiro, possuo experiência de chão de fábrica em indústria de pequeno porte e em pesquisa e desenvolvimento para indústria de grande porte. Tenho alguns anos de experiência em laboratório de prototipagem mecânica e eletrônica, utilizando tecnologias CAD/3D e impressão 3D. Através dessas experiências, tenho facilidade em trabalhar com times multidisciplinares, habilidades analíticas e pensamento crítico. 
 
 [EN/US] - As an engineer I combine industrial management experience in small industry and research and development experiences for heavy industry. I worked many years in laboratory environment using CAD/CAM and 3D printing. Through these experiences, I can say that I do possess analytical skills, ability to work in multidisciplinaty teams environments and critical thinking.
 
